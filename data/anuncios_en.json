@@ -344,8 +344,8 @@
     "lugarFiltro": "Varadero",
     "tipo": "renta",
     "plan": "",
-    "precio": "35 euros or CuP at the euro rate per room daily.<br>",
-    "descripcion": "Capacity: 8 people with children included. Amenities: garden, proximity to the beach, equipped kitchen<br>(price adjustable with the tenant)",
+    "precio": "35 euros or CuP at the euro rate per room daily.<br>(Price negotiable with the tenant)",
+    "descripcion": "Capacity: 8 people with children included. Amenities: garden, proximity to the beach, equipped kitchen",
     "fotos": ["img/260501-1055-01-01.webp", "img/260501-1055-01-02.webp", "img/260501-1055-01-03.webp", "img/260501-1055-01-04.webp", "img/260501-1055-01-05.webp", "img/260501-1055-01-06.webp", "img/260501-1055-01-07.webp", "img/260501-1055-01-08.webp"],
     "link_fb": "link a facebook",
     "link_wa": "link a whatsapp"
@@ -357,8 +357,8 @@
     "lugarFiltro": "Varadero",
     "tipo": "renta",
     "plan": "",
-    "precio": "Price: 120 euros complete house <br>Single rooms at 30 euro or usd <br>Double rooms at 50 euro or usd. ",
-    "descripcion": "Capacity for 9 people. <br>(price adjustable with the tenant)",
+    "precio": "Price: 120 euros complete house <br>Single rooms at 30 euro or usd <br>Double rooms at 50 euro or usd.<br>(Price negotiable with the tenant) ",
+    "descripcion": "Capacity for 9 people.",
     "fotos": ["img/260501-1056-01-01.webp", "img/260501-1056-01-02.webp", "img/260501-1056-01-03.webp", "img/260501-1056-01-04.webp", "img/260501-1056-01-05.webp", "img/260501-1056-01-06.webp", "img/260501-1056-01-07.webp"],
     "link_fb": "link a facebook",
     "link_wa": "link a whatsapp"
@@ -373,6 +373,19 @@
     "precio": "Entire house $170 USD <br>1 room for 2 people $50 USD <br>(price negotiable with the tenant)",
     "descripcion": "The layout of the house rooms. <br>ROOM 1: a separate room with its own bathroom and a double bed. <br>ROOM 2: a separate room with its own bathroom and a double bed. <br>ROOM 3: two rooms with one bathroom and three double beds. <br>There are two additional beds, one a full-size bed and one single bed, which we will place wherever the guests request (making a total of five double beds, one full-size bed, and one single bed). In the kitchen: refrigerator, freezer, four-burner gas stove (no oven), microwave, rice cooker, stockpot, electric coffee maker, plates, cutlery, glasses, and small pots and pans. In the living room: TV with digital national channels and a USB port, two pedestal fans; in the bedrooms: split air conditioning, TV with analog national channels, minibar, and safe. We always like to make it known that loud music is not allowed and pets are not permitted. The number of people in the reservation will always be the limit, and it's very important that everyone has their ID. We'll give you the keys upon arrival. Cleaning, changing sheets and towels is done every other day, and we're available 24 hours a day.",
     "fotos": ["img/260501-1100-01-01.webp", "img/260501-1100-01-02.webp", "img/260501-1100-01-03.webp", "img/260501-1100-01-04.webp", "img/260501-1100-01-05.webp", "img/260501-1100-01-06.webp", "img/260501-1100-01-07.webp", "img/260501-1100-01-08.webp", "img/260501-1100-01-09.webp", "img/260501-1100-01-10.webp", "img/260501-1100-01-11.webp"],
+    "link_fb": "link a facebook",
+    "link_wa": "link a whatsapp"
+  },
+  {
+    "id": "260501-1104-01",
+    "titulo": "4 bedroom house.",
+    "lugar": "Varadero",
+    "lugarFiltro": "Varadero",
+    "tipo": "renta",
+    "plan": "",
+    "precio": "<br>Price: 35 USD per room<br>(Price negotiable with the tenant)",
+    "descripcion": "The house has 4 bedrooms, a fully equipped kitchen, a patio with a garden, and is located just a few meters from the beach. It features a swimming pool and amenities for a relaxing stay. ",
+    "fotos": ["img/260501-1104-01-01.webp", "img/260501-1104-01-02.webp", "img/260501-1104-01-03.webp", "img/260501-1104-01-04.webp", "img/260501-1104-01-05.webp", "img/260501-1104-01-06.webp"],
     "link_fb": "link a facebook",
     "link_wa": "link a whatsapp"
   }

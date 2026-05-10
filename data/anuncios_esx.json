@@ -362,6 +362,19 @@
     "fotos": ["img/260501-1056-01-01.webp", "img/260501-1056-01-02.webp", "img/260501-1056-01-03.webp", "img/260501-1056-01-04.webp", "img/260501-1056-01-05.webp", "img/260501-1056-01-06.webp", "img/260501-1056-01-07.webp"],
     "link_fb": "link a facebook",
     "link_wa": "link a whatsapp"
+  },
+  {
+    "id": "260501-1100-01",
+    "titulo": "Casa con 3 cuartos independientes.",
+    "lugar": "Varadero",
+    "lugarFiltro": "Varadero",
+    "tipo": "renta",
+    "plan": "",
+    "precio": "<br>Casa completa 170 usd <br>1 habitacion para 2pax 50 usd <br>(precio ajustable con el arrendatario)",
+    "descripcion": "La distribución de los cuartos de la casa. <br>HABITACIÓN 1: un cuarto independiente con su baño y una cama matrimonial. <br>Habitación 2: un cuarto independiente con su baño y una cama matrimonial <br>Habitación 3: dos cuartos con un baño y 3 camas matrimoniales  <br>Hay dos camas adicionales una 3/4 y una personal que la situamos donde nos diga los clientes (serían 5 camas matrimoniales, 1 cama 3/4 y 1 personal) En la cocina. Refrigerador, freezer, cocina de gas de 4 hornillas (sin horno), horno microondas, olla arrocera, olla reyna,cafetera eléctrica, platos, cubiertos, vasos, cazuelas no muy grandes.  En la sala tv con señal nacional digital y cajita con puerto USB, dos ventiladores de pedestal; en los cuartos split, tv con señal nacional analógica, minibar, caja fuerte. Algo que siempre nos gusta que se conozca es respecto a que no se permite volumen elevado de música y no se aceptan mascotas. Siempre sería la cantidad de personas de la reserva y muy importante que todos tengan sus documentos de identidad. Le entregamos las llaves al llegar, la limpieza ,cambió de sábanas y toallas la hacemos en días alternos, estamos las 24  horas a su disposición.",
+    "fotos": ["img/260501-1100-01-01.webp", "img/260501-1100-01-02.webp", "img/260501-1100-01-03.webp", "img/260501-1100-01-04.webp", "img/260501-1100-01-05.webp", "img/260501-1100-01-06.webp", "img/260501-1100-01-07.webp", "img/260501-1100-01-08.webp", "img/260501-1100-01-09.webp", "img/260501-1100-01-10.webp", "img/260501-1100-01-11.webp"],
+    "link_fb": "link a facebook",
+    "link_wa": "link a whatsapp"
   }
   
 ]

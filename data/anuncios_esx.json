@@ -417,14 +417,14 @@
   },
   {
     "id": "260501-1112-01",
-    "titulo": "",
+    "titulo": "Apartamento independiente de 2 habitaciones en Varadero a pocas cuadras de la playa.",
     "lugar": "Varadero",
     "lugarFiltro": "Varadero",
     "tipo": "renta",
     "plan": "",
-    "precio": "<br>",
-    "descripcion": "",
-    "fotos": ["img/"],
+    "precio": "Precio: 40 usd o 35 euro por habitacion. <br>(precio ajustable con el arrendatario) <br>",
+    "descripcion": "Apartamento independiente de 2 habitaciones en Varadero a pocas cuadras de la playa.<br>Capacidad 5 personas. Comodidades. Cuenta con Terraza",
+    "fotos": ["img/260501-1112-01-01.webp", "img/260501-1112-01-02.webp", "img/260501-1112-01-03.webp", "img/260501-1112-01-04.webp", "img/260501-1112-01-05.webp", "img/260501-1112-01-06.webp", "img/260501-1112-01-07.webp", "img/260501-1112-01-08.webp"],
     "link_fb": "link a facebook",
     "link_wa": "link a whatsapp"
   }

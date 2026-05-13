@@ -391,14 +391,14 @@
   },
   {
     "id": "260501-1105-01",
-    "titulo": "",
+    "titulo": "2 bedroom house a few blocks from the sea.",
     "lugar": "Varadero",
     "lugarFiltro": "Varadero",
     "tipo": "renta",
     "plan": "",
-    "precio": "<br>",
-    "descripcion": "",
-    "fotos": ["img/"],
+    "precio": "Price: 70 USD <br>(price adjustable with the tenant)<br>",
+    "descripcion": "Two-bedroom house a few blocks from the sea. Sleeps 6, including children.",
+    "fotos": ["img/260501-1105-01-01.webp", "img/260501-1105-01-02.webp", "img/260501-1105-01-03.webp", "img/260501-1105-01-04.webp", "img/260501-1105-01-05.webp", "img/260501-1105-01-06.webp", "img/260501-1105-01-07.webp"],
     "link_fb": "link a facebook",
     "link_wa": "link a whatsapp"
   },

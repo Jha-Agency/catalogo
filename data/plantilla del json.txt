@@ -3,6 +3,7 @@
     "id": "",
     "titulo": "",
     "lugar": "",
+    "lugarFiltro": "",
     "tipo": "",
     "plan": "",
     "precio": "<br><br>📆 ",

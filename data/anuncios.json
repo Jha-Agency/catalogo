@@ -576,6 +576,19 @@
     "link_wa": "link a whatsapp"
   },
   {
+    "id": "260315-2252-01",
+    "titulo": "Apartamento cercano a Línea con una habitación. Equipado con Eco Flow",
+    "lugar": "Vedado",
+    "lugarFiltro": "La Habana",
+    "tipo": "renta",
+    "plan": "",
+    "precio": "Precio: 30 USD por día. <br> 550 USD para renta lineal mensual.<br>",
+    "descripcion": "Apartamento cercano a Línea con una habitación. <br>Completamente amueblado. <br>Cocina equipada, microwave, lavadora, no tiene problemas con el agua nunca en una zona muy tranquila y segura. <br>En breve será equipado con Eco Flow.",
+    "fotos": ["img/260315-2252-01-01.webp", "img/260315-2252-01-02.webp", "img/260315-2252-01-03.webp", "img/260315-2252-01-04.webp", "img/260315-2252-01-05.webp", "img/260315-2252-01-06.webp", "img/260315-2252-01-07.webp", "img/260315-2252-01-08.webp", "img/260315-2252-01-09.webp", "img/260315-2252-01-10.webp"],
+    "link_fb": "link a facebook",
+    "link_wa": "link a whatsapp"
+  },
+  {
     "id": "260323-1740-01",
     "titulo": "Descubre nuestro acogedor apartamento en la Calle 23, ubicado en el corazón del Vedado, cerca de la Plaza de la Revolución. Ideal para disfrutar de la vibrante vida de La Habana.",
     "lugar": "Vedado<br>📍 Ubicación: En una de las zonas más emblemáticas de La Habana, con fácil acceso a restaurantes, bares y atracciones turísticas.",
@@ -759,19 +772,6 @@
     "precio": "Precio: 40 usd o 35 euro por habitacion. <br>(precio ajustable con el arrendatario) <br>",
     "descripcion": "Apartamento independiente de 2 habitaciones en Varadero a pocas cuadras de la playa.<br>Capacidad 5 personas. Comodidades. Cuenta con Terraza",
     "fotos": ["img/260501-1112-01-01.webp", "img/260501-1112-01-02.webp", "img/260501-1112-01-03.webp", "img/260501-1112-01-04.webp", "img/260501-1112-01-05.webp", "img/260501-1112-01-06.webp", "img/260501-1112-01-07.webp", "img/260501-1112-01-08.webp"],
-    "link_fb": "link a facebook",
-    "link_wa": "link a whatsapp"
-  },
-  {
-    "id": "260315-2252-01",
-    "titulo": "Apartamento cercano a Línea con una habitación. Equipado con Eco Flow",
-    "lugar": "Vedado",
-    "lugarFiltro": "La Habana",
-    "tipo": "renta",
-    "plan": "",
-    "precio": "Precio: 30 USD por día. <br> 550 USD para renta lineal mensual.<br>",
-    "descripcion": "Apartamento cercano a Línea con una habitación. <br>Completamente amueblado. <br>Cocina equipada, microwave, lavadora, no tiene problemas con el agua nunca en una zona muy tranquila y segura. <br>En breve será equipado con Eco Flow.",
-    "fotos": ["img/260315-2252-01-01.webp", "img/260315-2252-01-02.webp", "img/260315-2252-01-03.webp", "img/260315-2252-01-04.webp", "img/260315-2252-01-05.webp", "img/260315-2252-01-06.webp", "img/260315-2252-01-07.webp", "img/260315-2252-01-08.webp", "img/260315-2252-01-09.webp", "img/260315-2252-01-10.webp"],
     "link_fb": "link a facebook",
     "link_wa": "link a whatsapp"
   }

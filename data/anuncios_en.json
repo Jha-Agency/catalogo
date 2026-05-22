@@ -351,6 +351,19 @@
     "link_wa": "link a whatsapp"
   },
   {
+    "id": "260407-1929-01",
+    "titulo": "Apartment not far from the Época store, fixed monthly rent, electricity never goes out.",
+    "lugar": "La Habana",
+    "lugarFiltro": "La Habana",
+    "tipo": "renta",
+    "plan": "",
+    "precio": "550 USD<br>",
+    "descripcion": "Apartment near the Época for linear rent, it is in a basement area, it has no energy issues or water shortage, it has 2 bedrooms, each with its own bathroom, living room and equipped kitchen.",
+    "fotos": ["img/260407-1929-01-01.webp", "img/260407-1929-01-02.webp", "img/260407-1929-01-03.webp", "img/260407-1929-01-04.webp", "img/260407-1929-01-05.webp", "img/260407-1929-01-06.webp", "img/260407-1929-01-07.webp", "img/260407-1929-01-08.webp", "img/260407-1929-01-09.webp", "img/260407-1929-01-100.webp"],
+    "link_fb": "link a facebook",
+    "link_wa": "link a whatsapp"
+  },
+  {
     "id": "260501-1055-01",
     "titulo": "3 bedroom house, 150 meters from the beach.",
     "lugar": "Varadero",

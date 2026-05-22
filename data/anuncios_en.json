@@ -1,33 +1,33 @@
 [
   {
     "id": "260311-0010-01",
-    "titulo": "TRADUCIR AL INGLES     🏡 ‼️Descubre el Vedado Habanero‼️🌆",
-    "lugar": "📌 A solo unos pasos del Hotel Capri, te ofrecemos comodidad y estilo en el corazón de La Habana. ",
+    "titulo": "🏡 ‼️Discover Vedado Habanero‼️🌆",
+    "lugar": "📌 Just a few steps from the Capri Hotel, we offer you comfort and style in the heart of Havana.",
     "lugarFiltro": "Habana",
     "tipo": "renta",
     "plan": "",
-    "precio": "💰Tenemos el mejor precio‼️<br>Por solo 25 dólares o euros por habitación la noche, podrás disfrutar de una de las mejores ubicaciones de la ciudad 😎",
-    "descripcion": "Vive una experiencia única en nuestro apartamento de renta con<br>🛌 2 habitaciones climatizadas <br>🪴 balcón con vista a la ciudad y<br>🧑‍🍳 cocina equipada <br>👉 Justo lo que buscas para tus vacaciones en la ciudad. ",
+    "precio": "💰We have the best price!!️<br>For only 25 dollars or euros per room per night, you can enjoy one of the best locations in the city 😎",
+    "descripcion": "Live a unique experience in our rental apartment with<br>🛌 2 air-conditioned rooms <br>🪴 balcony with city views and<br>🧑‍🍳 equipped kitchen <br>👉 Just what you are looking for for your vacation in the city. ",
     "fotos": ["img/260311-0010-01-01.webp", "img/260311-0010-01-02.webp", "img/260311-0010-01-03.webp", "img/260311-0010-01-04.webp"],
     "link_fb": "link a facebook",
     "link_wa": "link a whatsapp"
   },
   {
     "id": "260311-0011-01",
-    "titulo": "😍Una maravilla‼️<br>Justo lo que buscas para tus vacaciones en La Habana, Cuba. Maravilloso apartamento de renta en zona muy céntrica del Vedado capitalino y las más hermosas vistas 🌅 🌊 ",
-    "lugar": "📌Cerca de la Avenida Paseo, el Malecón, el Hotel Cohiba y el Hotel Riviera ",
+    "titulo": "😍A marvel!!️<br>Just what you are looking for for your vacation in Havana, Cuba. Wonderful apartment for rent in a very central area of ​​the capital's Vedado and the most beautiful views 🌅 🌊",
+    "lugar": "📌Close to Paseo Avenue, the Malecón, the Cohiba Hotel and the Riviera Hotel ",
     "lugarFiltro": "Habana",
     "tipo": "renta",
     "plan": "",
-    "precio": "💰 Precio: 45 USD/Euros por habitación la noche",
-    "descripcion": "✅ 3 habitaciones <br>✅ 2 Baños <br>✅ Completamente equipado <br>✅ Servicio de lavandería y planchado (costo adicional) ",
+    "precio": "💰 Price: 45 USD/Euros per room per night",
+    "descripcion": "✅ 3 bedrooms <br>✅ 2 Bathrooms <br>✅ Fully equipped <br>✅ Laundry and ironing service (additional cost)",
     "fotos": ["img/260311-0011-01-01.webp", "img/260311-0011-01-02.webp", "img/260311-0011-01-03.webp", "img/260311-0011-01-04.webp"],
     "link_fb": "link a facebook",
     "link_wa": "link a whatsapp"
   },
   {
     "id": "260311-0012-01",
-    "titulo": "⁉️Quieres vivir una experiencia inolvidable en La Habana, Cuba, durante tu viaje vacacional⁉️ 🎒 😎<br>🏠 Te presentamos nuestro acogedor apartamento de renta 🤩",
+    "titulo": "⁉️You want to live an unforgettable experience in Havana, Cuba, during your vacation trip⁉️ 🎒 😎<br>🏠 We present our cozy rental apartment 🤩",
     "lugar": "📍en el Vedado Capitalino, ubicado en una zona súper céntrica y atractiva de la ciudad‼️<br>📍 Situado cerca del Malecón y la Fábrica de Arte, tendrás fácil acceso a todos los lugares turísticos y de interés de La Habana.",
     "lugarFiltro": "Habana",
     "tipo": "renta",
@@ -438,6 +438,19 @@
     "precio": "Price: $40 USD or €35 per room. <br>(Price negotiable with the landlord) <br>",
     "descripcion": "Independent 2-bedroom apartment in Varadero, a few blocks from the beach. Sleeps 5. Amenities include a terrace.",
     "fotos": ["img/260501-1112-01-01.webp", "img/260501-1112-01-02.webp", "img/260501-1112-01-03.webp", "img/260501-1112-01-04.webp", "img/260501-1112-01-05.webp", "img/260501-1112-01-06.webp", "img/260501-1112-01-07.webp", "img/260501-1112-01-08.webp"],
+    "link_fb": "link a facebook",
+    "link_wa": "link a whatsapp"
+  },
+  {
+    "id": "260520-0829-01",
+    "titulo": "Apartment in Vedado, the electricity never goes out.",
+    "lugar": "Vedado",
+    "lugarFiltro": "La Habana",
+    "tipo": "renta",
+    "plan": "",
+    "precio": "$70 USD<br>(price adjustable with the lessee)<br>",
+    "descripcion": "Two bedrooms with split air conditioning, equipped kitchen, closets, one large bathroom, washing machine, a second small bathroom, living-dining room, large terrace, TV, ceiling fans, hot water in the bathrooms and kitchen, refrigerator, cutlery, dishes, pots, glasses and utensils, safe, city gas, four-burner gas stove with oven, microwave. There are two cisterns, plus a reserve water tank and pressure pump. The building door is locked. Located on 4th Street, electricity is not interrupted, on the second floor (top floor). Quiet and safe area.",
+    "fotos": ["img/260520-0829-01-01.webp", "img/260520-0829-01-02.webp", "img/260520-0829-01-03.webp", "img/260520-0829-01-04.webp", "img/260520-0829-01-05.webp", "img/260520-0829-01-06.webp", "img/260520-0829-01-07.webp", "img/260520-0829-01-08.webp", "img/260520-0829-01-09.webp", "img/260520-0829-01-10.webp"],
     "link_fb": "link a facebook",
     "link_wa": "link a whatsapp"
   }

@@ -455,6 +455,32 @@
     "link_wa": "link a whatsapp"
   },
   {
+    "id": "260501-1112-02",
+    "titulo": "Apartamento independiente de 1 habitación en Varadero a pocas cuadras de la playa.",
+    "lugar": "Varadero",
+    "lugarFiltro": "Varadero",
+    "tipo": "renta",
+    "plan": "",
+    "precio": "35 euro por habitacion o 40 usd<br>(precio ajustable con el arrendatario)",
+    "descripcion": "Capacidad 2 personas. Tiene terraza y demás comodidades. ",
+    "fotos": ["img/260501-1112-02-01.webp", "img/260501-1112-02-02.webp", "img/260501-1112-02-03.webp", "img/260501-1112-02-04.webp", "img/260501-1112-02-05.webp", "img/260501-1112-02-06.webp", "img/260501-1112-02-07.webp"],
+    "link_fb": "link a facebook",
+    "link_wa": "link a whatsapp"
+  },
+  {
+    "id": "260501-1114-01",
+    "titulo": "Apartamento de 1 habitación cerca de la plaza de los Artesanos.",
+    "lugar": "Varadero",
+    "lugarFiltro": "Varadero",
+    "tipo": "renta",
+    "plan": "",
+    "precio": "40 USD (precio ajustable con el arrendatario)",
+    "descripcion": "Habitación: 1<br>Capacidad: 2 personas ",
+    "fotos": ["img/260501-1114-01-01.webp", "img/260501-1114-01-02.webp", "img/260501-1114-01-03.webp", "img/260501-1114-01-04.webp", "img/260501-1114-01-05.webp", "img/260501-1114-01-06.webp"],
+    "link_fb": "link a facebook",
+    "link_wa": "link a whatsapp"
+  },
+  {
     "id": "260520-0829-01",
     "titulo": "Apartamento en el Vedado, luz permanente.",
     "lugar": "Vedado",

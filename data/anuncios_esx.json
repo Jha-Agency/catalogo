@@ -505,6 +505,19 @@
     "fotos": ["img/260520-0829-01-01.webp", "img/260520-0829-01-02.webp", "img/260520-0829-01-03.webp", "img/260520-0829-01-04.webp", "img/260520-0829-01-05.webp", "img/260520-0829-01-06.webp", "img/260520-0829-01-07.webp", "img/260520-0829-01-08.webp", "img/260520-0829-01-09.webp", "img/260520-0829-01-10.webp"],
     "link_fb": "link a facebook",
     "link_wa": "link a whatsapp"
+  },
+  {
+    "id": "20260603-0821-01",
+    "titulo": "Apartamento en 2do piso, no se va la luz",
+    "lugar": "",
+    "lugarFiltro": "La Habana",
+    "tipo": "renta",
+    "plan": "",
+    "precio": "75 usd apartamento completo.",
+    "descripcion": "2 baños<br>2 cuartos y terraza privada<br>Capacidad hasta 5 personas, se le puede adicionar una cama personal si el cliente lo necesita<br>Wifi 24h<br>No se va la electricidad",
+    "fotos": ["img/20260603-0821-01-01.webp", "img/20260603-0821-01-02.webp", "img/20260603-0821-01-03.webp", "img/20260603-0821-01-04.webp", "img/20260603-0821-01-05.webp", "img/20260603-0821-01-06.webp"],
+    "link_fb": "link a facebook",
+    "link_wa": "link a whatsapp"
   }
   
 ]

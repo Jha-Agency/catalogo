@@ -518,6 +518,19 @@
     "fotos": ["img/20260603-0821-01-01.webp", "img/20260603-0821-01-02.webp", "img/20260603-0821-01-03.webp", "img/20260603-0821-01-04.webp", "img/20260603-0821-01-05.webp", "img/20260603-0821-01-06.webp"],
     "link_fb": "link a facebook",
     "link_wa": "link a whatsapp"
+  },
+  {
+    "id": "20260603-0823-01",
+    "titulo": "Ground floor apartment, no power outages, street entrance",
+    "lugar": "",
+    "lugarFiltro": "La Habana",
+    "tipo": "renta",
+    "plan": "",
+    "precio": "Price for renting 3 bedrooms: 80 dollars or euros per day",
+    "descripcion": "Ground floor apartment with street access, 3 bedrooms, 2 bathrooms, and an interior patio.<br>24-hour Wi-Fi and uninterrupted electricity.<br>Sleeps up to 7 people as we can add a single bed.<br>We also offer a 2-bedroom, 2-bathroom option with an interior patio.<br>Price for a 2-bedroom apartment (sleeps up to 5 people with the addition of a single bed) is $60 USD per day.",
+    "fotos": ["img/20260603-0823-01-01.webp", "img/20260603-0823-01-02.webp", "img/20260603-0823-01-03.webp", "img/20260603-0823-01-04.webp", "img/20260603-0823-01-05.webp", "img/20260603-0823-01-06.webp", "img/20260603-0823-01-07.webp", "img/20260603-0823-01-08.webp", "img/20260603-0823-01-09.webp", "img/20260603-0823-01-10.webp"],
+    "link_fb": "link a facebook",
+    "link_wa": "link a whatsapp"
   }
   
 ]

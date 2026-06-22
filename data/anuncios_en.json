@@ -531,6 +531,19 @@
     "fotos": ["img/20260603-0823-01-01.webp", "img/20260603-0823-01-02.webp", "img/20260603-0823-01-03.webp", "img/20260603-0823-01-04.webp", "img/20260603-0823-01-05.webp", "img/20260603-0823-01-06.webp", "img/20260603-0823-01-07.webp", "img/20260603-0823-01-08.webp", "img/20260603-0823-01-09.webp", "img/20260603-0823-01-10.webp"],
     "link_fb": "link a facebook",
     "link_wa": "link a whatsapp"
+  },
+  {
+    "id": "20260603-0823-02",
+    "titulo": "Rental in Vedado, near the Cohiba Hotel",
+    "lugar": "Vedado",
+    "lugarFiltro": "La Habana",
+    "tipo": "renta",
+    "plan": "",
+    "precio": "$40 USD per day per room, $150 USD for the entire house. <br> Fixed monthly rent starting at $1500 USD",
+    "descripcion": "In Vedado, near the Hotel Cohiba, the Malecón, and restaurants like El Cocinero, La Catedral, Mar Adentro, and Centro Vasco.<br>Capacity: 6 adults and 1 child.<br>Includes:<br>🛌 3 air-conditioned bedrooms.<br>🛀 2 bathrooms with hot and cold water.<br>🍽️🥪🍳 Breakfast service.<br>🚗 Garage parking.<br>🛜 Wi-Fi service.",
+    "fotos": ["img/20260603-0823-02-01.webp", "img/20260603-0823-02-02.webp", "img/20260603-0823-02-03.webp", "img/20260603-0823-02-04.webp", "img/20260603-0823-02-05.webp", "img/20260603-0823-02-06.webp", "img/20260603-0823-02-07.webp", "img/20260603-0823-02-08.webp", "img/20260603-0823-02-09.webp", "img/20260603-0823-02-10.webp"],
+    "link_fb": "link a facebook",
+    "link_wa": "link a whatsapp"
   }
   
 ]
